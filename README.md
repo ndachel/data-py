@@ -1,4 +1,5 @@
-#Python container for some Data Science education
+Python container for some Data Science education
+=============
 
 This is a python container for playing with sets, map/reduce, and such.
 
